@@ -1,4 +1,3 @@
-@wip
 Feature: Develop E2E automated JS tests
     Background:
         Given I am on the home page
@@ -15,5 +14,3 @@ Scenario: Internet shop logo button
     When Open "Today's Best Deals" tab
     * Click on the Internet shop logo
     Then I check that the main page opened
-
-

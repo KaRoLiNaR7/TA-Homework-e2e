@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "First Test Automation Framework",
   "main": "index.js",
-  "author": "Liena Tīdena",
+  "author": "Karolina Rosiak",
   "license": "MIT",
   "devDependencies": {
     "@wdio/allure-reporter": "^7.25.4",
